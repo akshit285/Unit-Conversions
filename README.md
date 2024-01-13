@@ -7,6 +7,9 @@ Developed a Unit Conversion Calculator to change the units of temperature, weigh
 ### Introduction
 Welcome to the Unit Conversion website documentation. This website allows users to perform various unit conversions, including temperature, weight, and distance. Users can easily convert values from one unit to another using the provided interactive calculators.
 
+![Screenshot (73)](https://github.com/akshit285/Unit-Conversions/assets/98079528/bb4a6584-a6be-44dd-ad69-9252f8a5fcd2)
+
+
 ### Table of Contents
 #### 1. Introduction
 #### 2. Getting Started
@@ -28,11 +31,20 @@ To use the Unit Conversion website, simply navigate to the website URL in your p
 #### Temperature Conversion
 The Temperature Conversion section allows users to convert values between Celsius and Fahrenheit. Users can input a temperature value in Celsius and click the "Convert" button to instantly see the equivalent temperature in Fahrenheit. The conversion is based on the formula: (C × 9/5) + 32.
 
+![Screenshot (74)](https://github.com/akshit285/Unit-Conversions/assets/98079528/36cb9e95-65d5-48e1-9844-eca984c9b310)
+
+
 #### Weight Conversion
 In the Weight Conversion section, users can convert weights between Kilograms (KG) and Pounds (lbs). By entering a weight value in Kilograms and clicking the "Convert" button, users can view the corresponding weight in Pounds. The conversion formula used is: kg × 2.2.
 
+![Screenshot (75)](https://github.com/akshit285/Unit-Conversions/assets/98079528/ebe64387-ebce-4a79-b077-e1bc014f7070)
+
+
 #### Distance Conversion
 The Distance Conversion section enables users to convert distances between Kilometers (KM) and Miles (mi). Users can input a distance value in Kilometers and click the "Convert" button to see the distance in Miles. The conversion is performed using the formula: km ÷ 1.609.
+
+![Screenshot (76)](https://github.com/akshit285/Unit-Conversions/assets/98079528/c19cf2e4-638e-489c-a407-96764f615a0c)
+
 
 ### Code Structure
 #### HTML (index.html)
